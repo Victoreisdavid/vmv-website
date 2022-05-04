@@ -1,0 +1,16 @@
+#navbar {
+    display: flex;
+    align-items: center;
+}
+
+#navbar a {
+    display: block;
+    color: var(--body-color2);
+    text-decoration: none;
+    margin: 8px;
+    padding: 10px;
+}
+
+#navbar a:first-of-type {
+    font-size: 1.3em;
+}

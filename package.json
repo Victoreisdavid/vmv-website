@@ -1,0 +1,25 @@
+{
+  "name": "vmv-website",
+  "version": "1.0.0",
+  "description": "Website para um trabalho da escola",
+  "main": "index.js",
+  "scripts": {
+    "next-dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Victoreisdavid/vmv-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Victoreisdavid/vmv-website/issues"
+  },
+  "homepage": "https://github.com/Victoreisdavid/vmv-website#readme",
+  "dependencies": {
+    "next": "^12.1.5",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  }
+}
