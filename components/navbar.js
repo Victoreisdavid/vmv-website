@@ -4,7 +4,7 @@ export default function NavBar() {
     return (
         <nav id={Style.navbar}>
             <a href="/">VMV</a>
-            <a href="/about">Sobre nós</a>
+            <a href="#">Sobre nós</a>
         </nav>
     )
 }
