@@ -95,6 +95,7 @@
 
 .cards .card i {
     width: 100%;
+    color: var(--primary-color);
 }
 
 @keyframes image_move {

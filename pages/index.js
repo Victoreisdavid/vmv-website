@@ -34,8 +34,7 @@ export default function Index() {
             <div id="content">
                 <header>
                     <h1><span className="color-yellow">Vem conhecer a história da Grécia.</span> Sem pagar um absurdo.</h1>
-                    <h2><span className="color-blue">Lugares que contam história só de olhar!</span> E você <strong>paga pouco</strong>.</h2>    
-                    
+                    <h2>Lugares únicos que <span className="color-yellow">você nunca irá esquecer.</span></h2>    
                 </header>
                 <main id={Style.main}>
                     <br />
