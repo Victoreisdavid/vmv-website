@@ -1,16 +1,11 @@
 #navbar {
-    display: flex;
-    align-items: center;
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 3vh;
 }
 
 #navbar a {
-    display: block;
-    color: var(--body-color2);
     text-decoration: none;
-    margin: 8px;
-    padding: 10px;
-}
-
-#navbar a:first-of-type {
-    font-size: 1.3em;
+    padding: 15px 25px;
+    color: var(--fontcolor);
 }

@@ -9,7 +9,7 @@ export default function Footer() {
             <a href="#">Privacidade</a>
         </div>
         <p>VMV. Plataforma especializada em viagens para pontos históricos da Grécia.</p>
-        <p>Desenvolvido por Victor Reis David</p>
+        <br />
         <p>* Isto NÃO é um site profissional.</p>
     </footer>
 }

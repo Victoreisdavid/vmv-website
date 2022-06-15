@@ -1,21 +1,25 @@
 #footer {
-    background-color: var(--body-color2);
-    padding: 20px;
+    background-color: var(--fontcolor);
+    color: var(--bgcolor);
+    padding: 15px;
+}
+
+#footer p, #footer a {
+    font-size: 18px;
 }
 
 #footer #links {
     display: flex;
-    align-items: center;
+    flex-wrap: wrap;
 }
 
 #footer #links a {
-    color: var(--primary-color);
-    font-weight: bold;
+    margin: 16px;
+    margin-top: 5px;
+    color: var(--bgcolor);
     text-decoration: none;
-    margin: 10px 10px 10px 0px;
 }
 
-#footer p {
-    color: #666;
-    font-size: 0.8em;
+#footer #links a:hover {
+    text-decoration: underline;
 }

@@ -1,10 +1,12 @@
+import Link from "next/link";
+
 import Style from "../styles/navbar.module.css";
 
 export default function NavBar() {
     return (
         <nav id={Style.navbar}>
-            <a href="/">VMV</a>
-            <a href="#">Sobre nós</a>
+            <Link href="/"><a>VMV</a></Link>
+            <Link href="/about"><a>Sobre nós</a></Link>
         </nav>
     )
 }
